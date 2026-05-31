@@ -43,7 +43,9 @@ The analysis combines:
 
 - `telecom_analysis.ipynb` — full analysis notebook
 - `research_report.docx` — internship research report
-
+## Live Dashboard
+Streamlit Dashbaord:
+https://telecom-digital-growth-india-jufpuptnqbvdcrvuxyhuan.streamlit.app/
 ## Author
 
 Adwaiy Khanna  
